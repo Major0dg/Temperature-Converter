@@ -1,6 +1,5 @@
 import React from "react"
 
-
 export default function GradConverter(){
     const [temp, updateTemp] = React.useState({ f: 0, c: 0 })
   
